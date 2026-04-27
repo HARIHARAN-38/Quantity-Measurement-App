@@ -4,8 +4,6 @@
  * This class is responsible for checking the equality of two numerical values
  * measured in feet in the Quantity Measurement Application.
  */
-package com.apps.quantitymeasurement;
-
 public class QuantityMeasurementApp {
     
     /**
